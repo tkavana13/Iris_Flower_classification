@@ -24,6 +24,7 @@ Here is sample image of the Iris flower
 
 Programming Languages Used
    Python
+
 Libraries Used:
 Machine Learning and Data Processing
    1. pandas
@@ -36,6 +37,7 @@ Data Visualization
 
 
 Key Steps in the Workflow :
+
  1.Data Loading: Reading data from a CSV file.
  2.Data Preprocessing: Cleaning and preparing data for modeling.
  3.Model Training: Utilizing a machine learning model to classify the data.
