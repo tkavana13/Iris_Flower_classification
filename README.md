@@ -46,5 +46,19 @@ Key Steps in the Workflow :
 
  Here is the output of this project  :
 
+  It is the accuracy of the trained data model
+
+  ![image alt](https://github.com/tkavana13/Iris_Flower_classification/blob/main/results/load_data,%20train_model.png?raw=true)
+
+  It is result of feature selection of flowers based on their sepal & petal lengths
+
+  ![image alt](https://github.com/tkavana13/Iris_Flower_classification/blob/main/results/feature_selection.png?raw=true)
  
-![image alt](
+  It is the result of the data visualization
+ 
+  ![image alt](https://github.com/tkavana13/Iris_Flower_classification/blob/main/results/data_visualization.png?raw=true)
+
+  It is the bar chart of the feature importance 
+
+  ![image alt](https://github.com/tkavana13/Iris_Flower_classification/blob/main/results/feature_importance.png?raw=true)
+
