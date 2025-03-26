@@ -20,3 +20,23 @@ The dataset contains measurements of sepal and petal lengths and widths for thre
 Here is sample image of the Iris flower
 
 ![image alt](https://github.com/tkavana13/Iris_Flower_classification/blob/main/iris%20flower%20image.png?raw=true)
+
+
+Programming Languages Used
+   Python
+Libraries Used:
+Machine Learning and Data Processing
+   1. pandas
+   2. scikit-learn
+   3. joblib
+Data Visualization
+   1. matplotlib
+   2. seaborn
+
+
+Key Steps in the Workflow :
+Data Loading: Reading data from a CSV file.
+Data Preprocessing: Cleaning and preparing data for modeling.
+Model Training: Utilizing a machine learning model to classify the data.
+Model Evaluation: Checking the accuracy of the model.
+Visualization: Creating plots to visualize features and feature importances.
