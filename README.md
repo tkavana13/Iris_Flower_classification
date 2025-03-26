@@ -43,3 +43,8 @@ Key Steps in the Workflow :
  3.Model Training: Utilizing a machine learning model to classify the data.
  4.Model Evaluation: Checking the accuracy of the model.
  5.Visualization: Creating plots to visualize features and feature importances.
+
+ Here is the output of this project  :
+
+ 
+![image alt](
