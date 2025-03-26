@@ -29,14 +29,15 @@ Machine Learning and Data Processing
    1. pandas
    2. scikit-learn
    3. joblib
+
 Data Visualization
    1. matplotlib
    2. seaborn
 
 
 Key Steps in the Workflow :
-Data Loading: Reading data from a CSV file.
-Data Preprocessing: Cleaning and preparing data for modeling.
-Model Training: Utilizing a machine learning model to classify the data.
-Model Evaluation: Checking the accuracy of the model.
-Visualization: Creating plots to visualize features and feature importances.
+ 1.Data Loading: Reading data from a CSV file.
+ 2.Data Preprocessing: Cleaning and preparing data for modeling.
+ 3.Model Training: Utilizing a machine learning model to classify the data.
+ 4.Model Evaluation: Checking the accuracy of the model.
+ 5.Visualization: Creating plots to visualize features and feature importances.
